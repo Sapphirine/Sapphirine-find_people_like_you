@@ -1,0 +1,270 @@
+target,source,value
+4,a1,1
+161,a1,1
+183,a1,1
+185,a1,1
+191,a1,1
+19,a2,1
+65,a2,1
+89,a2,1
+125,a2,1
+127,a2,1
+155,a2,1
+159,a2,1
+160,a2,1
+162,a2,1
+214,a2,1
+64,a3,1
+189,a3,1
+48,a4,1
+120,a4,1
+158,a4,1
+168,a4,1
+212,a4,1
+12,b1,1
+13,b1,1
+35,b1,1
+92,b1,1
+94,b1,1
+164,b1,1
+165,b1,1
+166,b1,1
+167,b1,1
+213,b1,1
+215,b1,1
+3,b2,1
+53,b2,1
+153,b2,1
+184,b2,1
+186,b2,1
+205,b2,1
+114,b3,1
+115,b3,1
+116,b3,1
+117,b3,1
+118,b3,1
+119,b3,1
+20,b4,1
+67,b4,1
+93,b4,1
+122,b4,1
+140,b4,1
+141,b4,1
+180,b4,1
+188,b4,1
+49,c1,1
+50,c1,1
+60,c1,1
+63,c1,1
+75,c1,1
+83,c1,1
+96,c1,1
+97,c1,1
+99,c1,1
+126,c1,1
+128,c1,1
+173,c1,1
+216,c1,1
+51,c2,1
+52,c2,1
+103,c2,1
+142,c2,1
+163,c2,1
+178,c2,1
+100,c3,1
+218,c3,1
+238,c3,1
+57,c4,1
+104,c4,1
+174,c4,1
+44,d1,1
+45,d1,1
+46,d1,1
+105,d1,1
+108,d1,1
+6,d2,1
+8,d2,1
+15,d2,1
+16,d2,1
+17,d2,1
+30,d2,1
+43,d2,1
+47,d2,1
+79,d2,1
+82,d2,1
+84,d2,1
+85,d2,1
+87,d2,1
+88,d2,1
+91,d2,1
+98,d2,1
+106,d2,1
+107,d2,1
+154,d2,1
+172,d2,1
+175,d2,1
+177,d2,1
+190,d2,1
+86,d3,1
+21,d4,1
+66,d4,1
+81,d4,1
+90,d4,1
+169,d4,1
+179,d4,1
+187,d4,1
+109,e1,1
+112,e1,1
+123,e1,1
+26,e2,1
+29,e2,1
+36,e2,1
+54,e2,1
+56,e2,1
+62,e2,1
+78,e2,1
+102,e2,1
+144,e2,1
+148,e2,1
+171,e2,1
+207,e2,1
+208,e2,1
+101,e3,1
+176,e3,1
+193,e3,1
+18,e4,1
+33,e4,1
+70,e4,1
+73,e4,1
+192,e4,1
+197,e4,1
+1,f1,1
+59,f1,1
+72,f1,1
+204,f1,1
+195,f2,1
+196,f2,1
+198,f2,1
+200,f2,1
+2,f3,1
+27,f3,1
+28,f3,1
+34,f3,1
+37,f3,1
+38,f3,1
+39,f3,1
+41,f3,1
+42,f3,1
+55,f3,1
+71,f3,1
+111,f3,1
+199,f3,1
+7,f4,1
+25,f4,1
+58,f4,1
+61,f4,1
+68,f4,1
+69,f4,1
+76,f4,1
+77,f4,1
+110,f4,1
+130,f4,1
+143,f4,1
+145,f4,1
+146,f4,1
+147,f4,1
+149,f4,1
+150,f4,1
+151,f4,1
+156,f4,1
+170,f4,1
+201,f4,1
+217,f4,1
+9,g1,1
+31,g1,1
+129,g1,1
+137,g1,1
+211,g1,1
+235,g1,1
+133,g2,1
+135,g2,1
+194,g2,1
+236,g2,1
+132,g3,1
+237,g3,1
+222,g4,1
+234,g4,1
+10,h1,1
+11,h1,1
+40,h1,1
+223,h1,1
+224,h1,1
+225,h1,1
+231,h1,1
+23,h2,1
+24,h2,1
+124,h2,1
+136,h2,1
+157,h2,1
+181,h2,1
+201,h2,1
+220,h2,1
+221,h2,1
+226,h2,1
+228,h2,1
+229,h2,1
+230,h2,1
+233,h2,1
+152,h3,1
+210,h3,1
+219,h3,1
+5,h4,1
+22,h4,1
+32,h4,1
+131,h4,1
+134,h4,1
+138,h4,1
+139,h4,1
+202,h4,1
+203,h4,1
+227,h4,1
+232,h4,1
+a1,Art & Media-Normal School,1
+a2,Art & Media-Normal School,1
+a3,Art & Media-Normal School,1
+a4,Art & Media-Normal School,1
+b1,Art & Media-Top School,1
+b2,Art & Media-Top School,1
+b3,Art & Media-Top School,1
+b4,Art & Media-Top School,1
+c1,Finance Service-Normal School,1
+c2,Finance Service-Normal School,1
+c3,Finance Service-Normal School,1
+c4,Finance Service-Normal School,1
+d1,Finance Service-Top School,1
+d2,Finance Service-Top School,1
+d3,Finance Service-Top School,1
+d4,Finance Service-Top School,1
+e1,Industrial & IT-Normal School,1
+e2,Industrial & IT-Normal School,1
+e3,Industrial & IT-Normal School,1
+e4,Industrial & IT-Normal School,1
+f1,Industrial & IT-Top School,1
+f2,Industrial & IT-Top School,1
+f3,Industrial & IT-Top School,1
+f4,Industrial & IT-Top School,1
+g1,PublicOrLawService-Normal School,1
+g2,PublicOrLawService-Normal School,1
+g3,PublicOrLawService-Normal School,1
+g4,PublicOrLawService-Normal School,1
+h1,PublicOrLawService-Top School,1
+h2,PublicOrLawService-Top School,1
+h3,PublicOrLawService-Top School,1
+h4,PublicOrLawService-Top School,1
+Art & Media-Normal School,Linkedin,1
+Art & Media-Top School,Linkedin,1
+Finance Service-Normal School,Linkedin,1
+Finance Service-Top School,Linkedin,1
+Industrial & IT-Top School,Linkedin,1
+PublicOrLawService-Normal School,Linkedin,1
+PublicOrLawService-Top School,Linkedin,1
