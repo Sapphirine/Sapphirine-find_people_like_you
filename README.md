@@ -22,4 +22,6 @@ The coding for this project contains the following steps:
         $sudo service apache2 start
         $cd /DIR/gshell 
         $./sysGSuperMgr 6688 10
+
+    Then open the browers and upload the node and edge to generate graphs
     Then open the browers and upload the node and edge to generate graphs
